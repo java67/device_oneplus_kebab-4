@@ -159,4 +159,6 @@
     <item name="bluetooth.active">135</item>
     <item name="bluetooth.on">0.6</item>
     <item name="bluetooth.controller.voltage">3700</item>
+    <allow-in-power-save package="com.google.android.gms" />
+    <allow-in-data-usage-save package="com.google.android.gms" />
 </device>
